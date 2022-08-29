@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="jacky_intro">Hello World! I\'m Jacky! I want to learn more about Andriod delevelopment and I like playing tennis! No, that\'s not me. I wish I can look like Roger Federer when I play!</string>
+    <string name="button_text">Say Hello to me!</string>
+</resources>
