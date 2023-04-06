@@ -1,4 +1,4 @@
-# Android - *HelloWorld2*
+# Android
 
 This repo contains small projects developed using Android Studio and Kotlin.
 
