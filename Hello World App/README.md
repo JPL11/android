@@ -1,4 +1,4 @@
-# Android Prework - *HelloWorld2*
+# Android - *HelloWorld2*
 
 Submitted by: **Jacky Li**
 
