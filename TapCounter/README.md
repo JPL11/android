@@ -10,10 +10,6 @@ The following functionality is completed:
 * [x] User can tap on a button to see the number displayed increase by 1.
 * [x] User can exchange 100 taps for an upgrade where each tap will count as 2 taps.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
