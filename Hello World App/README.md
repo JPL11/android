@@ -6,17 +6,13 @@ Submitted by: **Jacky Li**
 
 Time spent: **3** hours spent in total
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 * [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
