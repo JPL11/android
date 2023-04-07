@@ -1,34 +1,27 @@
-# Android - *HelloWorld2*
+# Android - *Tap Counter*
 
 Submitted by: **Jacky Li**
-
-**HelloWorld2** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
-
-Time spent: **3** hours spent in total
 
 ## Features
 
 The following functionality is completed:
 
-* [x] Image and introductory message displayed on screen
-* [x] Button displayed on screen
-* [x] Toast with message appears when button is pressed 
+* [x] User can see a number displayed on the screen. The number starts at 0.
+* [x] User can tap on a button to see the number displayed increase by 1.
+* [x] User can exchange 100 taps for an upgrade where each tap will count as 2 taps.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/4MN5XRP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/dWJ5xsR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Running simulations on the Pixel simulator. It appears to be pretty slow and the API size is realtively big as well.
 
 ## License
 
-    Copyright [2022] [Jacky Li]
+    Copyright [2023] [Jacky Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
